@@ -1,0 +1,11 @@
+C:\Users\Maks\Desktop\labs\2 course\2 semestr\statistics\additional 1\additional 1\bin\Debug\additional 1.exe.config
+C:\Users\Maks\Desktop\labs\2 course\2 semestr\statistics\additional 1\additional 1\bin\Debug\additional 1.exe
+C:\Users\Maks\Desktop\labs\2 course\2 semestr\statistics\additional 1\additional 1\bin\Debug\additional 1.pdb
+C:\Users\Maks\Desktop\labs\2 course\2 semestr\statistics\additional 1\additional 1\obj\Debug\additional 1.csproj.AssemblyReference.cache
+C:\Users\Maks\Desktop\labs\2 course\2 semestr\statistics\additional 1\additional 1\obj\Debug\additional 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Maks\Desktop\labs\2 course\2 semestr\statistics\additional 1\additional 1\obj\Debug\additional_1.Form1.resources
+C:\Users\Maks\Desktop\labs\2 course\2 semestr\statistics\additional 1\additional 1\obj\Debug\additional_1.Properties.Resources.resources
+C:\Users\Maks\Desktop\labs\2 course\2 semestr\statistics\additional 1\additional 1\obj\Debug\additional 1.csproj.GenerateResource.cache
+C:\Users\Maks\Desktop\labs\2 course\2 semestr\statistics\additional 1\additional 1\obj\Debug\additional 1.csproj.CoreCompileInputs.cache
+C:\Users\Maks\Desktop\labs\2 course\2 semestr\statistics\additional 1\additional 1\obj\Debug\additional 1.exe
+C:\Users\Maks\Desktop\labs\2 course\2 semestr\statistics\additional 1\additional 1\obj\Debug\additional 1.pdb
